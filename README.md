@@ -9,4 +9,4 @@ This repository is my solution to `Project 2` of Udacity's [Deep Learning Nanode
 * **Hashir Ahmad** - *full project* - [GitHub](https://github.com/hash-ir)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/hash-ir/Predicting-Bike-Sharing-Patterns/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/hash-ir/Dog-Breed-Classifier/blob/master/LICENSE) file for details
